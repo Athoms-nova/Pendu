@@ -3,7 +3,7 @@
 ===================                 Athoms Nova                 =========================
 =======================================================================================*/
 
-const tabClavier = "abcdefghijklmnopqrstuvw".split("");
+const tabClavier = "abcdefghijklmnopqrstuvwxyz".split("");
 const caraAutorise = "azertyuiopqsdfghjklmwxcvbn";
 const pdv = 5;
 const liste = [
