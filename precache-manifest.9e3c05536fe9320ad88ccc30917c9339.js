@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b18be661735f101107dadf319ea1a1d",
+    "revision": "8cccad3bdc6ebe68a21893f951cc1580",
     "url": "/Pendu/index.html"
   },
   {
-    "revision": "bc10b3e798ae2453ee85",
+    "revision": "748a102a6966977ffd19",
     "url": "/Pendu/static/css/main.fc99456f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pendu/static/js/2.c89e0530.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc10b3e798ae2453ee85",
-    "url": "/Pendu/static/js/main.17cc0e77.chunk.js"
+    "revision": "748a102a6966977ffd19",
+    "url": "/Pendu/static/js/main.25be0d33.chunk.js"
   },
   {
     "revision": "12c1b439f3dbb1a63130",

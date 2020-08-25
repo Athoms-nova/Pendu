@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Pendu/static/css/main.fc99456f.chunk.css",
-    "main.js": "/Pendu/static/js/main.17cc0e77.chunk.js",
-    "main.js.map": "/Pendu/static/js/main.17cc0e77.chunk.js.map",
+    "main.js": "/Pendu/static/js/main.25be0d33.chunk.js",
+    "main.js.map": "/Pendu/static/js/main.25be0d33.chunk.js.map",
     "runtime-main.js": "/Pendu/static/js/runtime-main.a8a98f44.js",
     "runtime-main.js.map": "/Pendu/static/js/runtime-main.a8a98f44.js.map",
     "static/js/2.c89e0530.chunk.js": "/Pendu/static/js/2.c89e0530.chunk.js",
     "static/js/2.c89e0530.chunk.js.map": "/Pendu/static/js/2.c89e0530.chunk.js.map",
     "index.html": "/Pendu/index.html",
-    "precache-manifest.5d8fd7552438853ca15715dd78a11264.js": "/Pendu/precache-manifest.5d8fd7552438853ca15715dd78a11264.js",
+    "precache-manifest.9e3c05536fe9320ad88ccc30917c9339.js": "/Pendu/precache-manifest.9e3c05536fe9320ad88ccc30917c9339.js",
     "service-worker.js": "/Pendu/service-worker.js",
     "static/css/main.fc99456f.chunk.css.map": "/Pendu/static/css/main.fc99456f.chunk.css.map",
     "static/js/2.c89e0530.chunk.js.LICENSE.txt": "/Pendu/static/js/2.c89e0530.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.a8a98f44.js",
     "static/js/2.c89e0530.chunk.js",
     "static/css/main.fc99456f.chunk.css",
-    "static/js/main.17cc0e77.chunk.js"
+    "static/js/main.25be0d33.chunk.js"
   ]
 }
